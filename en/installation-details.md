@@ -7,6 +7,10 @@ If you have questions please drop Mario an email: office@foodcoopshop.com
 * Server connected to internet with root access / sudo and cronjobs
 * Apache with `mod_rewrite`
 * PHP 7.1
+* `php-intl` module
+* node.js
+* cakephp
+* composer
 * MySQL 5.6 (5.7 since v1.5)
 * A domain name registered for you
 * Basic understanding of Apache Webserver, MySQL Database and Linux Server administration
